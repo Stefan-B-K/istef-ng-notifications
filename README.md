@@ -1,8 +1,10 @@
 # IstefNgNotifications
 
-Basic notifications list/widget for your Angular projects. 
-Clips the list of messages to the bottom right of the web page.
-Message type/color :   success / green  -  error / red  -  info / blue
+Basic notifications widget for your Angular projects.  
+Clips to the bottom right of the web page.  
+Message type/color :   success / green  -  error / red  -  info / blue  
+
+![](https://github.com/Stefan-B-K/istef-ng-notifications/blob/main/src/assets/Screenshot.png)
 
 ## Install
 
