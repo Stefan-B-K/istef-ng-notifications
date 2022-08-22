@@ -127,3 +127,8 @@
   user-select: none;
   opacity: 0.25;
 }
+
+ddd {
+  pointer-events: none;
+  cursor: pointer;
+}
