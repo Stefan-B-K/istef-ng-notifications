@@ -22,9 +22,9 @@ Inject <span style="color: green">NotificationListComponent</span>  in your serv
 like that: 
 ```
 .pipe(
-      tap(  
-              () => this.notifications.addSuccessMessage('...'),
-              (err) => this.notifications.addErrorMessage('...', 10)
+    tap(  
+          () => this.notifications.addSuccessMessage('...'),
+           err) => this.notifications.addErrorMessage('...', 10)
 )
 ```
 where the second argument (<i>optional</i>) is the display time of the notification (<i>in seconds, default 5s</i>).
