@@ -1,7 +1,8 @@
 # IstefNgNotifications
 
-Basic notifications list/widget for your Angular projects. Clips the list of messages to the bottom right of the web page.
-Messages type/color : success/green - error/red - info/blue
+Basic notifications list/widget for your Angular projects. 
+Clips the list of messages to the bottom right of the web page.
+Message type/color :   success / green  -  error / red  -  info / blue
 
 ## Install
 
@@ -13,7 +14,7 @@ npm i istef-ng-notifications
 
 Add `<istef-ng-notifications></istef-ng-notifications>` to the component html, where you want notifications displayed.
 
-Inject <span style="color: #13cc70;">NotificationListComponent</span>  in your service/s and call the corresponding method:
+Inject <span style="color: green;">NotificationListComponent</span>  in your service/s and call the corresponding method:
 * <span style="color: #13cc70;">addSuccessMessage()</span>
 * <span style="color: #13cc70;">addErrorMessage()</span>
 * <span style="color: #13cc70;">addInfoMessage()</span>
