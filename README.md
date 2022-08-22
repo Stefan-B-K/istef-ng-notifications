@@ -14,7 +14,7 @@ npm i istef-ng-notifications
 
 Add `<istef-ng-notifications></istef-ng-notifications>` to the component html, where you want notifications displayed.
 
-Inject <span style="letter-spacing: 2px"><b><i>NotificationsService</i></b></span>  in your service/s and call the corresponding method:
+Inject `<b><i>NotificationsService</i></b></span>`  in your service/s and call the corresponding method:
 * <b><i>addSuccessMessage()</i></b>
 * <b><i>addErrorMessage()</i></b>
 * <b><i>addInfoMessage()</i></b>
