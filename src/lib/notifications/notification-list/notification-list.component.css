@@ -130,5 +130,5 @@
 
 ddd {
   pointer-events: none;
-  cursor: pointer;
+  cursor: default;
 }
