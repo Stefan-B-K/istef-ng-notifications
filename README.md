@@ -14,10 +14,10 @@ npm i istef-ng-notifications
 
 Add `<istef-ng-notifications></istef-ng-notifications>` to the component html, where you want notifications displayed.
 
-Inject <span style="color: green;">NotificationListComponent</span>  in your service/s and call the corresponding method:
-* <span style="color: #13cc70;">addSuccessMessage()</span>
-* <span style="color: #13cc70;">addErrorMessage()</span>
-* <span style="color: #13cc70;">addInfoMessage()</span>
+Inject <span style="color: green">NotificationListComponent</span>  in your service/s and call the corresponding method:
+* <span style="color: #13cc70">addSuccessMessage()</span>
+* <span style="color: #13cc70">addErrorMessage()</span>
+* <span style="color: #13cc70">addInfoMessage()</span>
 
 like that: 
 `
